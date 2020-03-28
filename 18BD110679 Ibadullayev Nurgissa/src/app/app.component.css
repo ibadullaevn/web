@@ -1,0 +1,19 @@
+li {
+    list-style-type: none;
+}
+body{
+    background-color: black;
+    color: red;
+}
+
+.categories{
+    color: green;
+}
+a{
+    color: #7aff3c;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+

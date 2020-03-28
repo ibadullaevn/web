@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/mid-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/midka-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/w4/myapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webmid-app" vcs="Git" />
+  </component>
+</project>

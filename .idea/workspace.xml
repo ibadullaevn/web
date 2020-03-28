@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff64a1ee-f99c-46ba-a57a-769ee992a9b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/w2/Telegram/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/w2/Telegram/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/w2/instagram/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/w2/instagram/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-app" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1X4GmRYGPnFdlPLJFxBsQsAJHtU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fb" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff64a1ee-f99c-46ba-a57a-769ee992a9b0" name="Default Changelist" comment="" />
+      <created>1580298111497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580298111497</updated>
+      <workItem from="1580298113736" duration="19476000" />
+      <workItem from="1580530348586" duration="2005000" />
+      <workItem from="1581084654270" duration="3179000" />
+      <workItem from="1581620673004" duration="54000" />
+      <workItem from="1581706309789" duration="545000" />
+      <workItem from="1581707121668" duration="80000" />
+      <workItem from="1581738965467" duration="32000" />
+      <workItem from="1581745627796" duration="2000" />
+      <workItem from="1585238479662" duration="126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1581124345091">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581124345091" />
+    <state x="387" y="85" width="776" height="729" key="find.popup" timestamp="1581121452581">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="387" y="85" width="776" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1581121452581" />
+  </component>
+</project>

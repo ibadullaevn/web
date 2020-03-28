@@ -1,0 +1,16 @@
+
+li {
+    list-style-type: none;
+}
+a{
+    color: black;
+}
+.categories-style{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#flex{
+    display: flex;
+    flex-direction: row;
+}
